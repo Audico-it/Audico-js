@@ -1,4 +1,3 @@
-<script>
 // Client Slider
 $(document).ready(function () {
       var clientslider_wrapper = new Swiper(".clientslider_wrapper", {
@@ -90,4 +89,3 @@ $(document).ready(function () {
         },
       });
     });
-</script>
