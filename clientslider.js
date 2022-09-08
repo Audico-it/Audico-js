@@ -28,10 +28,10 @@ $(document).ready(function () {
     }
   },
       autoplay: {
-          delay: 5000,
+          delay: 3000,
           disableOnInteraction: false,
       },
-  speed: 500,
+  speed: 1000,
   loop: true,
 
         on: {
