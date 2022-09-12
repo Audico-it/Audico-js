@@ -43,9 +43,9 @@ $(document).ready(function () {
     });
 // Testimonial Slider
 $(document).ready(function () {
-      var testimonialslider_wrapper = new Swiper(".testimonialslider-wrapper", {
-          wrapperClass: "testimonialslider-list",
-      slideClass: "testimonialslider-item",
+      var testimonialslider_wrapper = new Swiper(".testimonialslider_wrapper", {
+          wrapperClass: "testimonialslider_list",
+      slideClass: "testimonialslider_item",
       navigation: {
         nextEl: '.testimonialslider-next',
         prevEl: '.testimonialslider-previous'
