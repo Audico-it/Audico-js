@@ -13,7 +13,7 @@ $(document).ready(function () {
   breakpoints: {
       // when window width is >= 320px
     320: {
-      slidesPerView: 1,
+      slidesPerView: 2,
       spaceBetween: 10,
     },
     // when window width is >= 780px
