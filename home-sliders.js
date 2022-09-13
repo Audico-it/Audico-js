@@ -29,7 +29,7 @@ $(document).ready(function () {
   },
   //TÄMÄ ON KONMENTTI
       autoplay: {
-          delay: 6000,
+          delay: 5000,
           disableOnInteraction: false,
       },
   speed: 1000,
