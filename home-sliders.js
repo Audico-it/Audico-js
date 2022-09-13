@@ -27,6 +27,7 @@ $(document).ready(function () {
       spaceBetween: 50
     }
   },
+  //TÄMÄ ON KONMENTTI
       autoplay: {
           delay: 6000,
           disableOnInteraction: false,
