@@ -13,7 +13,12 @@ el: '.referenceslider_pagination',
 clickable: true,
 
 },
-speed: 700,
+  effect: 'coverflow',
+  coverflowEffect: {
+    rotate: 30,
+    slideShadows: true,
+  },
+speed: 2000,
 slidesPerView: 'auto',
 loop: true,
 
