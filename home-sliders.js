@@ -28,7 +28,7 @@ $(document).ready(function () {
     }
   },
       autoplay: {
-          delay: 6000,
+          delay: 8000,
           disableOnInteraction: false,
       },
   speed: 1000,
