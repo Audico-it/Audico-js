@@ -43,7 +43,7 @@ $(document).ready(function () {
       });
     });
 
-// Testimonial Slider
+/*// Testimonial Slider
 $(document).ready(function () {
       var testimonialslider_wrapper = new Swiper(".testimonialslider_wrapper", {
           wrapperClass: "testimonialslider_list",
@@ -93,7 +93,7 @@ $(document).ready(function () {
         },
       });
     });
-
+*/
 //Reference Slider
 $(document).ready(function () {
 var referenceslider_wrapper = new Swiper(".referenceslider_wrapper", {
