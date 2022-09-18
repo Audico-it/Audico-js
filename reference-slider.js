@@ -18,7 +18,7 @@ clickable: true,
     rotate: 30,
     slideShadows: true,
   },
-speed: 1000,
+speed: 1500,
 slidesPerView: 'auto',
 loop: true,
 
