@@ -123,7 +123,7 @@ $(document).ready(function () {
   },
   speed: 700,
   loop: true,
-  centeredSlides: false,
+  centeredSlides: true,
   allowTouchMove: false,
 });
 });
