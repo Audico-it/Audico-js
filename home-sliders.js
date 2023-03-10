@@ -109,7 +109,7 @@ $(document).ready(function () {
     },
     // when window width is >= 1280px
     1280	: {
-    slidesPerView: 4,
+    slidesPerView: 3,
     spaceBetween: 50
     }
   },
