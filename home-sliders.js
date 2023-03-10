@@ -88,10 +88,6 @@ $(document).ready(function () {
   const testimonialslider_wrapper = new Swiper(".testimonialslider_wrapper", {
   wrapperClass: "testimonialslider_list",
   slideClass: "testimonialslider_item",
-  navigation: {
-    nextEl: '.testimonialslider-next',
-    prevEl: '.testimonialslider-previous'
-  },
   slidesPerView: 1,
   spaceBetween: 10,
   // Responsive breakpoints
@@ -113,17 +109,17 @@ $(document).ready(function () {
     },
     // when window width is >= 1280px
     1280	: {
-    slidesPerView: 3,
+    slidesPerView: 4,
     spaceBetween: 50
     }
   },
   /*autoplay: {
     delay: 100000,
     disableOnInteraction: false,
-  },*/
-  speed: 700,
+  },
+  /*speed: 700,
   loop: false,
   centeredSlides: true,
-  allowTouchMove: false,
+  allowTouchMove: false,*/
 });
 });
