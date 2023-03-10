@@ -113,13 +113,5 @@ $(document).ready(function () {
     spaceBetween: 50
     }
   },
-  /*autoplay: {
-    delay: 100000,
-    disableOnInteraction: false,
-  },
-  /*speed: 700,
-  loop: false,
-  centeredSlides: true,
-  allowTouchMove: false,*/
 });
 });
