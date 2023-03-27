@@ -65,8 +65,8 @@ $(document).ready(function () {
       slidesPerView: 1,
       spaceBetween: 10,
     },
-    // when window width is >= 780px
-    780: {
+    // when window width is >= 768px
+    768: {
       slidesPerView: 3,
       spaceBetween: 30
     },
